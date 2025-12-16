@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "三月のパンタシア 『サマーグラビティ』",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2025-12-16T12:34:41.285128Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サマーグラビティ",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/01_サマーグラビティ_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サマーグラビティ",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/02_サマーグラビティ_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サマーグラビティ",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_サマーグラビティ_三月のパンタシア.txt"
+    }
+  ]
+}
